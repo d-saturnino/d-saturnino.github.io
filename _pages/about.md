@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me and this site"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello there!
+I'm diana saturnino, just a young woman trying to fly in the world. 
+I work on research, more specifically on the topic of Earth's magnetism. I've aways been a fan of geophysics. I love to program, treat data and find what is hidding in it. I also like books, puzzles, and the sound of rain.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This site is supposed to be an ensemble of experiences and random blogs.

@@ -14,7 +14,7 @@ Skills:
 - Git  
 - Inkscape, LibreOffice
 
-Small CV:
+Small CV:   
 **since 12/2018**
 Research Engineer CNRS at LPG - Université de Nantes, France. 
 Satellite Magnetometer (ESA Swarm mission) data collection and treatment for Earth's magnetic field modelling (IGRF-13).  

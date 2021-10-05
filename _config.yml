@@ -59,10 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
-  avatar : "/assets/images/DSC05210_mod.jpg"
-  #2020-05-29-213804.jpg"
-  bio    : "PhD Research Engineer/Geophysicist"
+  name   : " "
+  avatar : "/assets/images/DSC05210_mod.jpg"  # 2020-05-29-213804.jpg"
+  bio    : "PhD Research Engineer \\ Geophysicist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

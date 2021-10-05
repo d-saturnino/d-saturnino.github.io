@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rings of Saturn
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Diana Saturnino
+email: dianaflsaturnino@gmail.com
+description: >- PhD Research Engineer searching for oportunities
+# this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Diana Saturnino"
+  name   : ""
   avatar : "/assets/images/2020-05-29-213804.jpg"
-  bio    : "Just a geophysicist trying to fly in the world."
+  bio    : "PhD Research Engineer/Geophysicist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -83,9 +84,9 @@ footer:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
@@ -98,9 +99,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: fase
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

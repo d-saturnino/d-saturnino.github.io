@@ -33,7 +33,7 @@ Scientific algorithms programming and scientific writing.
                    
 **2012 - 2015**    
 PhD thesis at LPG - Université de Nantes, France.   
-["Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm measurements"](https://tel.archives-ouvertes.fr/tel-01332435). 
+["Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm measurements"](https://tel.archives-ouvertes.fr/tel-01332435).      
 Development of a new algorithm to collect, treat and analise magnetic satellite vector data.
                 
 **2010-2012**   

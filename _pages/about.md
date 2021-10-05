@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About me & CV"
+title: "Biography"
 ---
 
 I'm a portuguese research engineer in academia in France. My research subjects are geomagnetism and inverse problems in geophysics. 

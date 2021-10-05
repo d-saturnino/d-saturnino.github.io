@@ -21,17 +21,17 @@ Satellite Magnetometer (ESA Swarm mission) data collection and treatment for Ear
 Baeysian inverse of geomagnetic data for electrical conductivity profile of Earth's upper mantle.  
 Scientific writing and talks.
                 
-**2016 - 2018**  
+**2016 - 2018**      
 Postdoc COFOND Marie Curie Felowship at DTU Space/Geomagnetism Division, Copenhagen, Denmark.  
 Reseach in geomagnetism. Ground and satellite data analysis and modelling.   
 Programming scientific algorithms.   
 Scientific writing and talks.
                    
-**11/2015**
+**11/2015**    
 Assistant research at LPG - Université de Nantes, France.   
 Scientific algorithms programming and scientific writing.
                    
-**2012 - 2015** 
+**2012 - 2015**    
 PhD thesis at LPG - Université de Nantes, France.   
 ["Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm measurements"](https://tel.archives-ouvertes.fr/tel-01332435). 
 Development of a new algorithm to collect, treat and analise magnetic satellite vector data.

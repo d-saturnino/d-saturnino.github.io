@@ -24,9 +24,9 @@ Peer-reviewed articles:
 Talks & posters: 
 * 04/2021 Virtual EGU, Altitude dependence of geomagnetic external fields using Swarm and ground observatories data (talk)
 * 02/2020 Physics Department, Faculty of Sciences University of Coimbra (Invited talk)
-* 09/2019, Swarm (talk)
-* 04/2017, EGU, (talk)
-* 04/2017, EGU  (poster)
+* 09/2019, Swarm #9 Data Quality Workshop, A 1D electrical conductivity and temperature profil of the Earth’s mantle by bayesian inversion and Swarm data (talk)
+* 04/2017, EGU, VO-ESD: a virtual observatory approach to describe the geomagnetic field temporal variations with application to Swarm data (talk)
+* 04/2017, EGU  Ionospheric magnetic signals during conjunctions between ground based and Swarm satellite observations (poster)
 * 04/2015, EGU, Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm data (talk)
 * 05/2015, PMAG, Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm data (talk)
 * 09/2014, AGU, Describing temporal variations of the magnetic field through a modified Virtual Observatory scheme to be applied to Swarm measurements (poster)

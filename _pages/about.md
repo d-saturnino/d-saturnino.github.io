@@ -15,8 +15,8 @@ Skills:
 - Inkscape, LibreOffice
 
 Small CV:   
-**since 12/2018**
-Research Engineer CNRS at LPG - Université de Nantes, France. 
+**since 12/2018**   
+Research Engineer CNRS at LPG - Université de Nantes, France.     
 Satellite Magnetometer (ESA Swarm mission) data collection and treatment for Earth's magnetic field modelling (IGRF-13).  
 Baeysian inverse of geomagnetic data for electrical conductivity profile of Earth's upper mantle.  
 Scientific writing and talks.
@@ -33,7 +33,7 @@ Scientific algorithms programming and scientific writing.
                    
 **2012 - 2015** 
 PhD thesis at LPG - Université de Nantes, France.   
-"Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm measurements".   
+["Describing temporal variations of the geomagnetic field using a modified virtual observatory scheme: application to Swarm measurements"](https://tel.archives-ouvertes.fr/tel-01332435). 
 Development of a new algorithm to collect, treat and analise magnetic satellite vector data.
                 
 **2010-2012**   

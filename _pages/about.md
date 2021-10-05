@@ -3,9 +3,9 @@ permalink: /about/
 title: "Biography"
 ---
 
-I'm a portuguese research engineer in academia in France.  
-My research subjects are geomagnetism and inverse problems in geophysics.  
-I love scientific programing, data colleting and analysis.  
+I'm a portuguese research engineer working in academia in France, ready to find new experiences and challenges.   
+My research work was around geomagnetism and inverse problems in geophysics.  
+I love scientific programing,data treatment and analysis.  
 I also like books, puzzles, and the sound of rain.
 
 Skills: 

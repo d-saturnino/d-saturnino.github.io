@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://d-saturnino.github.io"
  #   - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
  #     url: "https://twitter.com/"
@@ -74,6 +74,9 @@ author:
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dianasaturnino/"
 
 footer:
   links:
@@ -95,7 +98,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: fase
       comments: true
       share: true
       related: true
